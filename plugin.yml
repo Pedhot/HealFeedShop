@@ -1,0 +1,13 @@
+name: HealFeedShop
+main: pedhot\HFShop\Main
+api: 3.0.0
+version: 1.0 - BetaTester
+author: Pedhot
+
+depend:
+- FormAPI
+- EconomyAPI
+
+commands: 
+  hfshop:
+    descriptions: "Open HealFeedShop"
