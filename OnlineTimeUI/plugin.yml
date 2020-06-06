@@ -1,0 +1,14 @@
+name: OnlineTimeUI
+main: AnjayMabar\Main
+api: 3.0.0
+version: 1.0.0 - ASW
+author: Pedhot
+
+depend: 
+- FormAPI
+- OnlineTime
+
+commands: 
+  otui:
+    descriptions: open OnlineTimeUI
+	aliases: onlinetimeui
